@@ -59,11 +59,10 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/ai-video-stitcher-pro.git
+git clone https://github.com/punithkrishnakeepudi/ai-video-stitcher-pro.git
 cd ai-video-stitcher-pro
 ```
 
-> Replace `your-username` with your GitHub username.
 
 ### 2. Run the Setup Script
 
